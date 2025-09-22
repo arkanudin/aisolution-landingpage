@@ -1,5 +1,5 @@
 .bg-cover {
-  background-image: url('../assets/img/sea-bg.jpg');
+  background-image: url('assets/img/sea-bg.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
